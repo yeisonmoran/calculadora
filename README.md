@@ -53,7 +53,7 @@
 
 ## 📫 Cómo contactarme
 
-- ✉️ **Correo:** yeisonmoran.@gmail.com  
+- ✉️ **Correo:** moranyeison522.@gmail.com  
 - 🌐 **LinkedIn:** [linkedin.com/in/yeison-stiven-lara-moran-613a9922b](https://www.linkedin.com/in/yeison-stiven-lara-moran-613a9922b/)  
 - 💻 **GitHub:** [github.com/yeisonmoran](https://github.com/yeisonmoran)
 
