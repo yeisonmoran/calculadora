@@ -46,7 +46,3 @@ Soy un apasionado por la tecnología con experiencia en soporte técnico, admini
 📌 [https://yeisonmoran.github.io](https://yeisonmoran.github.io) *(si tienes o quieres crear uno usando GitHub Pages)*
 
 ---
-
-> Si quieres también una **imagen de cabecera como la de MoureDev**, puedo ayudarte a diseñarla o a crear una parecida. Solo dime qué estilo quieres y qué texto o íconos incluir.
-  
-¿Te gustaría que diseñemos una imagen como la de él (mouredev)?
