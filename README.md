@@ -48,6 +48,7 @@
 ## 📂 Proyectos destacados
 
 - 🔢 [Calculadora](https://github.com/yeisonmoran/calculadora): Proyecto simple hecho con HTML, CSS y JavaScript.
+- 🧑‍💻 [Portafolio Profesional](https://github.com/yeisonmoran/Portafolio-Profesional): Proyecto realizado hecho con HTML, CSS y JavaScript.
 
 ---
 
